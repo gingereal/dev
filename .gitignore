@@ -1,2 +1,2 @@
 *.txt
-.clang-format
+# .clang-format
