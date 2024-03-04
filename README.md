@@ -6,4 +6,4 @@ make clean
 
 # Note
 
-add .clang_format in .gitignore file.
+add .clang_format in .gitignore file before start to develop.
